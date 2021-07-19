@@ -64,5 +64,5 @@ Rüya tabiri sitesi yapmak için kod hazırlığına başlayabiliriz. Kodumuza b
 
 ## Rüya tabiri sayfası ekleme
 
-[sayfaekle.py] dosyasında paylaştığım kodu kendi ihtiyaçlarınıza göre değiştirerek veritabanından gelen bilgilerle yeni tabirler üretmeye başlayacaksınız. Veritabanında 3 içerik bölümünü kendi ihtiyacınız doğrultusunda genişletebilir veya azaltabilirsiniz. Sayfa eklemekle ilgili sorunlarınızı [issues](https://github.com/ruya-tabiri/ruya-tabiri-sitesi/issues) bölümünde sorabilirsiniz. Bu kod elbette stabil sayfalar üretiyor. Aslında bu da oldukça hızlı web siteleri yapmanıza sebep olur. Dilerseniz kullanacağınız javascript kodlarının adreslerini de sayfa temasına ekleyebilirsiniz. 
+[sayfaekle.py](https://github.com/ruya-tabiri/ruya-tabiri-sitesi/blob/main/sayfaekle.py) dosyasında paylaştığım kodu kendi ihtiyaçlarınıza göre değiştirerek veritabanından gelen bilgilerle yeni tabirler üretmeye başlayacaksınız. Veritabanında 3 içerik bölümünü kendi ihtiyacınız doğrultusunda genişletebilir veya azaltabilirsiniz. Sayfa eklemekle ilgili sorunlarınızı [issues](https://github.com/ruya-tabiri/ruya-tabiri-sitesi/issues) bölümünde sorabilirsiniz. Bu kod elbette stabil sayfalar üretiyor. Aslında bu da oldukça hızlı web siteleri yapmanıza sebep olur. Dilerseniz kullanacağınız javascript kodlarının adreslerini de sayfa temasına ekleyebilirsiniz. 
 
