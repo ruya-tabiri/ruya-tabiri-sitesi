@@ -62,3 +62,7 @@ Rüya tabiri için sqlite veritabanı yapısı kullandım. Bunu kendiniz hazırl
 
 Rüya tabiri sitesi yapmak için kod hazırlığına başlayabiliriz. Kodumuza başlamadan önce veritabanı hazır ve sqlite3 modülü kullanılabilir durumda olmalıdır. Bunları pip ile kurabilirsiniz. Python3 programlama dili elbette bilgisayarınıza kurulu olmalı.
 
+## Rüya tabiri sayfası ekleme
+
+[sayfaekle.py] dosyasında paylaştığım kodu kendi ihtiyaçlarınıza göre değiştirerek veritabanından gelen bilgilerle yeni tabirler üretmeye başlayacaksınız. Veritabanında 3 içerik bölümünü kendi ihtiyacınız doğrultusunda genişletebilir veya azaltabilirsiniz. Sayfa eklemekle ilgili sorunlarınızı [issues](https://github.com/ruya-tabiri/ruya-tabiri-sitesi/issues) bölümünde sorabilirsiniz. Bu kod elbette stabil sayfalar üretiyor. Aslında bu da oldukça hızlı web siteleri yapmanıza sebep olur. Dilerseniz kullanacağınız javascript kodlarının adreslerini de sayfa temasına ekleyebilirsiniz. 
+
